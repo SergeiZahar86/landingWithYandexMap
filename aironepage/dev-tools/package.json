@@ -1,0 +1,22 @@
+{
+  "name": "acidus",
+  "version": "1.0.0",
+  "description": "HTML5 Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "keenthemes.com",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-changed": "^4.0.0",
+    "gulp-clean-css": "^4.0.0",
+    "gulp-htmlhint": "^4.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-rtlcss": "^2.0.0",
+    "gulp-sass": "^5.1.0",
+    "gulp-uglify": "^3.0.0",
+    "sass": "^1.62.1"
+  }
+}
